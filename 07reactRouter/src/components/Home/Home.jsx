@@ -6,7 +6,7 @@ function Home() {
         <div className="mx-auto w-full max-w-7xl">
             <aside className="relative overflow-hidden text-black rounded-lg sm:mx-16 mx-2 sm:py-16">
                 <div className="relative z-10 max-w-screen-xl px-4  pb-20 pt-10 sm:py-24 mx-auto sm:px-6 lg:px-8">
-                    <div className="max-w-xl sm:mt-1 mt-80 space-y-8 text-center sm:text-right sm:ml-auto">
+                    <div className=" max-w-xl sm:mt-1 mt-80 space-y-8 text-center sm:text-right sm:ml-auto">
                         <h2 className="text-4xl font-bold sm:text-5xl">
                             Download Now
                             <span className="hidden sm:block text-4xl">Lorem Ipsum</span>
@@ -32,7 +32,7 @@ function Home() {
                 </div>
 
                 <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
-                    <img className="w-96" src="https://plus.unsplash.com/premium_photo-1661876402729-09f3b7e87640?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cG5nfGVufDB8fDB8fHww" alt="image1" />
+                    <img className="ml-4 w-96 h-96" src="https://plus.unsplash.com/premium_photo-1661876402729-09f3b7e87640?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cG5nfGVufDB8fDB8fHww" alt="image1" />
                 </div>
             </aside>
 

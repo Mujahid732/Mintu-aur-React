@@ -38,7 +38,7 @@ export default function ContactUs() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    Acme Inc, Street, State, Postal Code
+                                    Gheekanta Ahamdabad Gujarat 380001
                                 </div>
                             </div>
 
@@ -60,7 +60,7 @@ export default function ContactUs() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    +44 1234567890
+                                   +91 7323021541
                                 </div>
                             </div>
 
@@ -82,7 +82,7 @@ export default function ContactUs() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    info@acme.org
+                                    alam@gmail.com
                                 </div>
                             </div>
                         </div>
